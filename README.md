@@ -3,7 +3,7 @@
 **Contact Book web application** built using **HTML, CSS, and vanilla JavaScript**.  
 It allows users to manage contacts efficiently with full CRUD functionality, search, and persistent storage using **localStorage**.
 
----
+
 ## Features
 - Add new contacts with validated name, address, phone, email, and image URL
 - Edit existing contacts
